@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HammadAkbar1623
-- 👀 I’m interested in Artificial Intelligence Development
-- 🌱 I’m currently learning C++, to give a start to my Development journey
-- 💞️ I’m looking to collaborate on C++ Projects
-- 📫 How to reach me Email: Mohammadhammadakbar@gmail.com,  Linkedin Profile: Mohammad Hammad Akbar
+- 👀 I’m interested in GenAi
+- 🌱 I’m currently learning Javascript backend
+- 💞️ I’m looking to collaborate on MERN stack Projects
+- 📫 How to reach me Email: Mohammadhammadakbar@gmail.com,  Linkedin Profile: Hammad Akbar Khan
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
